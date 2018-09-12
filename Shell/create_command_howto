@@ -1,0 +1,3 @@
+echo Create your sh file
+echo run the chmod +x script - command
+echo copy file now to /usr/bin and it will be usable as a usual command
