@@ -1,0 +1,8 @@
+TODO:: 
+	We should be able to drag'n drop files into a GUI and get 
+	the compiled file with a question to path
+	
+	When decompiling and saving is finished or the user wants to exit 
+	we should get back to shell
+	Better would be for the shell to not wait for the user to leave gui 
+	window but open it in another window

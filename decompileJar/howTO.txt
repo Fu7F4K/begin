@@ -1,0 +1,3 @@
+unzip the zip folder you downloaded 
+unzip the jar file you want do decompile
+jad on the files or just jad* ?
